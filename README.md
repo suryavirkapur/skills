@@ -7,6 +7,7 @@ A set of skills I have made for use with my favorite technologies.
 | Skill | Description |
 |-------|-------------|
 | [solidjs](skills/solidjs/) | Complete SolidJS framework skill covering reactivity, components, stores, routing, and SolidStart |
+| [utoipa-axum](skills/utoipa-axum/) | OpenAPI documentation for Rust APIs using utoipa with Axum and Scalar UI |
 
 ## Installation
 
